@@ -1,0 +1,45 @@
+D:\ДЗ\програмирование (2)\никита\pr11v6\pr11v6\bin\Debug\netcoreapp3.1\pr11v6.exe
+D:\ДЗ\програмирование (2)\никита\pr11v6\pr11v6\bin\Debug\netcoreapp3.1\pr11v6.deps.json
+D:\ДЗ\програмирование (2)\никита\pr11v6\pr11v6\bin\Debug\netcoreapp3.1\pr11v6.runtimeconfig.json
+D:\ДЗ\програмирование (2)\никита\pr11v6\pr11v6\bin\Debug\netcoreapp3.1\pr11v6.runtimeconfig.dev.json
+D:\ДЗ\програмирование (2)\никита\pr11v6\pr11v6\bin\Debug\netcoreapp3.1\pr11v6.dll
+D:\ДЗ\програмирование (2)\никита\pr11v6\pr11v6\bin\Debug\netcoreapp3.1\pr11v6.pdb
+D:\ДЗ\програмирование (2)\никита\pr11v6\pr11v6\obj\Debug\netcoreapp3.1\pr11v6.csprojAssemblyReference.cache
+D:\ДЗ\програмирование (2)\никита\pr11v6\pr11v6\obj\Debug\netcoreapp3.1\pr11v6.Form1.resources
+D:\ДЗ\програмирование (2)\никита\pr11v6\pr11v6\obj\Debug\netcoreapp3.1\pr11v6.csproj.GenerateResource.cache
+D:\ДЗ\програмирование (2)\никита\pr11v6\pr11v6\obj\Debug\netcoreapp3.1\pr11v6.AssemblyInfoInputs.cache
+D:\ДЗ\програмирование (2)\никита\pr11v6\pr11v6\obj\Debug\netcoreapp3.1\pr11v6.AssemblyInfo.cs
+D:\ДЗ\програмирование (2)\никита\pr11v6\pr11v6\obj\Debug\netcoreapp3.1\pr11v6.csproj.CoreCompileInputs.cache
+D:\ДЗ\програмирование (2)\никита\pr11v6\pr11v6\obj\Debug\netcoreapp3.1\pr11v6.dll
+D:\ДЗ\програмирование (2)\никита\pr11v6\pr11v6\obj\Debug\netcoreapp3.1\pr11v6.pdb
+D:\ДЗ\програмирование (2)\никита\pr11v6\pr11v6\obj\Debug\netcoreapp3.1\pr11v6.genruntimeconfig.cache
+D:\ДЗ\програмирование (2)\никита\pr11v6 — копия\pr11v6\obj\Debug\netcoreapp3.1\pr11v6.csprojAssemblyReference.cache
+D:\ДЗ\програмирование (2)\никита\pr11v6 — копия\pr11v6\obj\Debug\netcoreapp3.1\pr11v6.Form1.resources
+D:\ДЗ\програмирование (2)\никита\pr11v6 — копия\pr11v6\obj\Debug\netcoreapp3.1\pr11v6.csproj.GenerateResource.cache
+D:\ДЗ\програмирование (2)\никита\pr11v6 — копия\pr11v6\obj\Debug\netcoreapp3.1\pr11v6.AssemblyInfoInputs.cache
+D:\ДЗ\програмирование (2)\никита\pr11v6 — копия\pr11v6\obj\Debug\netcoreapp3.1\pr11v6.AssemblyInfo.cs
+D:\ДЗ\програмирование (2)\никита\pr11v6 — копия\pr11v6\obj\Debug\netcoreapp3.1\pr11v6.csproj.CoreCompileInputs.cache
+D:\ДЗ\програмирование (2)\никита\pr11v6 — копия\pr11v6\obj\Debug\netcoreapp3.1\pr11v6.dll
+D:\ДЗ\програмирование (2)\никита\pr11v6 — копия\pr11v6\obj\Debug\netcoreapp3.1\pr11v6.pdb
+D:\ДЗ\програмирование (2)\никита\pr11v6 — копия\pr11v6\bin\Debug\netcoreapp3.1\pr11v6.exe
+D:\ДЗ\програмирование (2)\никита\pr11v6 — копия\pr11v6\bin\Debug\netcoreapp3.1\pr11v6.deps.json
+D:\ДЗ\програмирование (2)\никита\pr11v6 — копия\pr11v6\bin\Debug\netcoreapp3.1\pr11v6.runtimeconfig.json
+D:\ДЗ\програмирование (2)\никита\pr11v6 — копия\pr11v6\bin\Debug\netcoreapp3.1\pr11v6.runtimeconfig.dev.json
+D:\ДЗ\програмирование (2)\никита\pr11v6 — копия\pr11v6\bin\Debug\netcoreapp3.1\pr11v6.dll
+D:\ДЗ\програмирование (2)\никита\pr11v6 — копия\pr11v6\bin\Debug\netcoreapp3.1\pr11v6.pdb
+D:\ДЗ\програмирование (2)\никита\pr11v6 — копия\pr11v6\obj\Debug\netcoreapp3.1\pr11v6.genruntimeconfig.cache
+D:\ДЗ\програмирование (2)\никита\pr11v6 — копия — копия\pr11v6\bin\Debug\netcoreapp3.1\pr11v6.exe
+D:\ДЗ\програмирование (2)\никита\pr11v6 — копия — копия\pr11v6\bin\Debug\netcoreapp3.1\pr11v6.deps.json
+D:\ДЗ\програмирование (2)\никита\pr11v6 — копия — копия\pr11v6\bin\Debug\netcoreapp3.1\pr11v6.runtimeconfig.json
+D:\ДЗ\програмирование (2)\никита\pr11v6 — копия — копия\pr11v6\bin\Debug\netcoreapp3.1\pr11v6.runtimeconfig.dev.json
+D:\ДЗ\програмирование (2)\никита\pr11v6 — копия — копия\pr11v6\bin\Debug\netcoreapp3.1\pr11v6.dll
+D:\ДЗ\програмирование (2)\никита\pr11v6 — копия — копия\pr11v6\bin\Debug\netcoreapp3.1\pr11v6.pdb
+D:\ДЗ\програмирование (2)\никита\pr11v6 — копия — копия\pr11v6\obj\Debug\netcoreapp3.1\pr11v6.csprojAssemblyReference.cache
+D:\ДЗ\програмирование (2)\никита\pr11v6 — копия — копия\pr11v6\obj\Debug\netcoreapp3.1\pr11v6.Form1.resources
+D:\ДЗ\програмирование (2)\никита\pr11v6 — копия — копия\pr11v6\obj\Debug\netcoreapp3.1\pr11v6.csproj.GenerateResource.cache
+D:\ДЗ\програмирование (2)\никита\pr11v6 — копия — копия\pr11v6\obj\Debug\netcoreapp3.1\pr11v6.AssemblyInfoInputs.cache
+D:\ДЗ\програмирование (2)\никита\pr11v6 — копия — копия\pr11v6\obj\Debug\netcoreapp3.1\pr11v6.AssemblyInfo.cs
+D:\ДЗ\програмирование (2)\никита\pr11v6 — копия — копия\pr11v6\obj\Debug\netcoreapp3.1\pr11v6.csproj.CoreCompileInputs.cache
+D:\ДЗ\програмирование (2)\никита\pr11v6 — копия — копия\pr11v6\obj\Debug\netcoreapp3.1\pr11v6.dll
+D:\ДЗ\програмирование (2)\никита\pr11v6 — копия — копия\pr11v6\obj\Debug\netcoreapp3.1\pr11v6.pdb
+D:\ДЗ\програмирование (2)\никита\pr11v6 — копия — копия\pr11v6\obj\Debug\netcoreapp3.1\pr11v6.genruntimeconfig.cache
